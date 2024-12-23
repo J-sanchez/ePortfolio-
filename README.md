@@ -29,10 +29,23 @@ In this self-assessment, I will discuss the skills I have developed, the enhance
 The following section presents my original artifacts created at the beginning of the term, showcasing the foundational work that laid the groundwork for my improvements.
 
 #### Artifact 1: [LANL Portfolio]
-- **Description**: A brief description of the artifact, its purpose, and initial functionality.
-- **Technologies Used**: List of technologies, languages, and frameworks used (e.g., Python, SQL, Flask, etc.).
+- **Description**:  
+  The LANL Portfolio is a personal portfolio project built to showcase my skills, projects, and experience as a developer. This portfolio serves as both a professional showcase and a tool for potential employers or collaborators to learn more about my work and background. The original version was created with Node.js for the backend and Tailwind CSS for responsive, utility-first front-end design. The portfolio includes sections such as "About Me," "Skills," "Projects," and "Contact," which together provide a comprehensive view of my capabilities.
+
+- **Technologies Used**:
+  - **Backend**: Node.js (for server-side functionality and API routes)
+  - **Frontend**: Tailwind CSS (for flexible and responsive design)
+  - **Additional Tools**: Express.js (for setting up the Node.js server), EJS (for templating)
+  - **Version Control**: Git/GitHub
+  - **Hosting**: GitHub Pages (for front-end hosting), Heroku (for full-stack hosting)
+
 - **Key Features**:
-  - Bullet points summarizing the primary features or functions of the project.
+  - **Responsive Design**: Utilized Tailwind CSS to ensure the portfolio is fully responsive across devices (desktop, tablet, mobile).
+  - **Interactive Project Gallery**: Showcased personal projects with descriptions, technologies used, and links to GitHub repositories.
+  - **Contact Form**: Integrated a contact form where visitors can send messages directly to my email address. This functionality is handled through the Node.js backend using the Nodemailer package.
+  - **Custom Animations**: Added subtle animations to the UI elements using Tailwind's utility classes, enhancing the visual experience.
+  - **GitHub Pages & Heroku Deployment**: Hosted the front-end on GitHub Pages, with the backend deployed on Heroku for full-stack functionality.
+
   
 [View the Original Artifact on GitHub](https://github.com/J-sanchez/LANL_Portfolio)
 
