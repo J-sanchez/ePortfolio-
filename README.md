@@ -28,13 +28,13 @@ In this self-assessment, I will discuss the skills I have developed, the enhance
 
 The following section presents my original artifacts created at the beginning of the term, showcasing the foundational work that laid the groundwork for my improvements.
 
-#### Artifact 1: [Project Name or Topic]
+#### Artifact 1: [LANL Portfolio]
 - **Description**: A brief description of the artifact, its purpose, and initial functionality.
 - **Technologies Used**: List of technologies, languages, and frameworks used (e.g., Python, SQL, Flask, etc.).
 - **Key Features**:
   - Bullet points summarizing the primary features or functions of the project.
   
-[View the Original Artifact on GitHub](https://github.com/your-username/project-name)
+[View the Original Artifact on GitHub](https://github.com/J-sanchez/LANL_Portfolio)
 
 #### Artifact 2: [Project Name or Topic]
 - **Description**: A brief description of this artifact.
@@ -50,7 +50,7 @@ The following section presents my original artifacts created at the beginning of
 
 In this section, I will highlight the enhancements I made to my original artifacts, showcasing my growth and how I incorporated feedback and new knowledge throughout the term.
 
-#### Enhanced Artifact 1: [Project Name or Topic]
+#### Enhanced Artifact 1: [Professional Portfolio]
 - **Enhancements Made**:
   - Descriptions of changes made to improve functionality, user interface, performance, etc.
   - Focus on improvements made after feedback or new learning, such as optimizing algorithms, improving user experience, or integrating additional features.
@@ -58,7 +58,7 @@ In this section, I will highlight the enhancements I made to my original artifac
 - **New Features Added**:
   - Bullet points describing the new or improved features.
   
-[View the Enhanced Artifact on GitHub](https://github.com/your-username/project-name)
+[View the Enhanced Artifact on GitHub](https://github.com/your-username/project-name](https://github.com/J-sanchez/Portfolio )
 
 #### Enhanced Artifact 2: [Project Name or Topic]
 - **Enhancements Made**:
