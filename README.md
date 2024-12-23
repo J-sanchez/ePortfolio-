@@ -1,116 +1,112 @@
-# The Hacker theme
+# Jonathan C. Sanchez 
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
+[![GitHub Pages](https://img.shields.io/badge/Live-GitHub_Pages-blue)](https://your-github-pages-link.com) [![GitHub Repository](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/your-username/your-repository)
 
-*Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
+## Professional Self-Assessment
 
-![Thumbnail of Hacker](thumbnail.png)
+*Welcome to my professional self-assessment, which serves as a holistic introduction to my journey throughout this course and project.*
 
-## Usage
+In this self-assessment, I will discuss the skills I have developed, the enhancements I have implemented to my original artifacts, and how my work aligns with the program outcomes for the Computer Science degree. This section demonstrates my ability to reflect on my progress and quantify my achievements based on the artifacts I have developed and enhanced during the course.
 
-To use the Hacker theme:
+### Key Skills Demonstrated:
+- **Software Development**: Enhanced my skills in writing clean, efficient, and maintainable code.
+- **Problem Solving**: Applied algorithms and data structures to solve real-world problems.
+- **Database Management**: Improved my understanding of relational and non-relational databases through hands-on projects.
+- **Version Control**: Utilized Git for code versioning, collaboration, and project management.
+- **Documentation**: Documented my code and process effectively for both technical and non-technical audiences.
 
-1. Add the following to your site's `_config.yml`:
+### Alignments with Course Outcomes:
+- **Program Outcome 1: Problem Solving** – Demonstrated through the optimization of code and database queries.
+- **Program Outcome 2: Application of Software Engineering Principles** – Implemented through iterative development and testing of software artifacts.
+- **Program Outcome 3: Data Management and Analysis** – Showcased through database-related enhancements and data manipulation tasks.
+- **Program Outcome 4: Team Collaboration** – Displayed in my collaboration with peers on various projects, utilizing GitHub for version control.
+- **Program Outcome 5: Professionalism in Software Development** – Reflected in my consistent use of best practices for code quality, security, and documentation.
 
-    ```yml
-    remote_theme: pages-themes/hacker@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
+## Artifacts
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+### Original Artifacts
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+The following section presents my original artifacts created at the beginning of the term, showcasing the foundational work that laid the groundwork for my improvements.
 
-## Customizing
+#### Artifact 1: [Project Name or Topic]
+- **Description**: A brief description of the artifact, its purpose, and initial functionality.
+- **Technologies Used**: List of technologies, languages, and frameworks used (e.g., Python, SQL, Flask, etc.).
+- **Key Features**:
+  - Bullet points summarizing the primary features or functions of the project.
+  
+[View the Original Artifact on GitHub](https://github.com/your-username/project-name)
 
-### Configuration variables
+#### Artifact 2: [Project Name or Topic]
+- **Description**: A brief description of this artifact.
+- **Technologies Used**: [List of tools]
+- **Key Features**:
+  - Bullet points summarizing features.
 
-Hacker will respect the following variables, if set in your site's `_config.yml`:
+[View the Original Artifact on GitHub](https://github.com/your-username/project-name)
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+---
 
-Additionally, you may choose to set the following optional variables:
+### Enhanced Artifacts
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+In this section, I will highlight the enhancements I made to my original artifacts, showcasing my growth and how I incorporated feedback and new knowledge throughout the term.
 
-### Stylesheet
+#### Enhanced Artifact 1: [Project Name or Topic]
+- **Enhancements Made**:
+  - Descriptions of changes made to improve functionality, user interface, performance, etc.
+  - Focus on improvements made after feedback or new learning, such as optimizing algorithms, improving user experience, or integrating additional features.
+- **Technologies Used**: [Technologies after enhancement, if any changes]
+- **New Features Added**:
+  - Bullet points describing the new or improved features.
+  
+[View the Enhanced Artifact on GitHub](https://github.com/your-username/project-name)
 
-If you'd like to add your own custom styles:
+#### Enhanced Artifact 2: [Project Name or Topic]
+- **Enhancements Made**:
+  - Descriptions of improvements or new features that were added.
+  - Emphasis on complex database queries, improved security practices, etc.
+- **Technologies Used**: [List of updated tools]
+- **New Features Added**:
+  - Bullet points describing the changes.
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+[View the Enhanced Artifact on GitHub](https://github.com/your-username/project-name)
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+## Course Outcomes and Enhancements
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+Throughout this course, I have worked on several artifacts, each of which has contributed to my understanding and implementation of key course outcomes. The following is an outline of how my work aligns with these outcomes:
 
-### Layouts
+- **Outcome 1: Problem Solving and Algorithm Design**  
+  *In my projects, I have solved complex problems by designing algorithms that are both efficient and easy to understand, with a focus on optimizing performance in real-world applications.*
 
-If you'd like to change the theme's HTML layout:
+- **Outcome 2: Software Development Practices**  
+  *My development process has followed industry-standard practices for coding, including version control with Git and Agile development methodologies. I have also incorporated best practices in code documentation.*
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/hacker/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/hacker/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/hacker/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
+- **Outcome 3: Data Management and Databases**  
+  *I have designed and implemented databases, demonstrating proficiency in SQL and NoSQL systems. Enhancements to my database systems were critical for scaling my projects and ensuring efficient data retrieval.*
 
-### Customizing Google Analytics code
+- **Outcome 4: Collaboration and Communication**  
+  *Collaborating with peers on various projects has refined my communication skills, particularly in explaining technical concepts to both technical and non-technical audiences.*
 
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+- **Outcome 5: Professionalism and Ethics**  
+  *Throughout the course, I have maintained high standards of professionalism, including adhering to ethical guidelines for data privacy and security in my projects.*
 
-### Overriding GitHub-generated URLs
+## Final Project Guidelines and Rubric
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+As I near the completion of this project, I reviewed the [Final Project Guidelines and Rubric PDF](https://link-to-guidelines.com) to ensure all critical elements and requirements are addressed. I have made sure to:
 
-1. Look at [the template source](https://github.com/pages-themes/hacker/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+- Follow the specified formatting and content guidelines.
+- Ensure all required artifacts, code reviews, narratives, and assessments are included.
+- Align my work with the five program outcomes.
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+## GitHub Pages and External Links
 
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+While my ePortfolio is hosted on GitHub Pages, some of my work is hosted externally:
 
-## Roadmap
+- **Code Review**: The code review is hosted on [YouTube](https://www.youtube.com/watch?v=example).
+- **Bitbucket Repository**: Some of my private repositories, including experimental projects, are hosted on [Bitbucket](https://bitbucket.org/your-username).
 
-See the [open issues](https://github.com/pages-themes/hacker/issues) for a list of proposed features (and known issues).
+For further guidance, please refer to the [GitHub Pages Formatting PDF](https://link-to-formatting-guide.com).
 
-## Project philosophy
+---
 
-The Hacker theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+*Note: Be sure to review the rubric and final project guidelines as you finalize your submission. The final polished version should highlight your achievements and reflect your growth throughout the term.*
 
-## Contributing
-
-Interested in contributing to Hacker? We'd love your help. Hacker is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
-### Previewing the theme locally
-
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
-
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/hacker`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
-
-### Running tests
-
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
