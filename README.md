@@ -35,15 +35,15 @@ The artifacts in my portfolio demonstrate the skills I've acquired throughout my
 
 #### Software Design and Engineering:
 This artifact shows my ability to enhance software, refactor code, and implement new features.
-- [Artifact - SNHU CS 250: Niche Travel App](./assets/ArtifactOne/artifactOne.html)
+- [Artifact - SNHU CS 250: Niche Travel App](./assets/ArtifactOne/EnhancementOne_Jonathan_Sanchez.pdf)
 
 #### Algorithms and Data Structures:
 This artifact highlights my understanding of algorithms and my ability to turn academia into something fun.
-- [Artifact - SNHU CS 300: Binary Search Tree (BST) - Tree Traversal](./assets/ArtifactTwo/artifactTwo.html)
+- [Artifact - SNHU CS 300: Binary Search Tree (BST) - Tree Traversal](./assets/EnhancementTwo_Jonathan_Sanchez.pdf)
 
 #### Databases:
 This artifact demonstrates my skills in designing and implementing relational databases, with a focus on performance in a real-world application.
-- [Artifact - SNHU DAD 220: Inventory Tracking App](./assets/ArtifactThree/artifactThree.html)
+- [Artifact - SNHU DAD 220: Inventory Tracking App](./assets/ArtifactThree/EnhancementThree_Jonathan_Sanchez.pdf)
 
 These artifacts showcase the technical skills I've developed and my progress throughout the program.
 
