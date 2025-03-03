@@ -35,7 +35,7 @@ The artifacts in my portfolio demonstrate the skills I've acquired throughout my
 
 #### Software Design and Engineering:
 This artifact shows my ability to enhance software, refactor code, and implement new features.
-- [Artifact - SNHU CS 250: Niche Travel App](./assets/ArtifactOne/Enhancement_One_Travelogy_Jonathan_Sanchez.pdf)
+- [Artifact - SNHU CS 250: Niche Travel App](./assets/ArtifactOne/Enhancement_One_TravelApp_Jonathan_Sanchez.pdf)
 
 #### Algorithms and Data Structures:
 This artifact highlights my understanding of algorithms and my ability to turn academia into something fun.
