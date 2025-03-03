@@ -1,125 +1,60 @@
 # Jonathan C. Sanchez 
 
-[![GitHub Pages](https://img.shields.io/badge/Live-GitHub_Pages-blue)](https://your-github-pages-link.com) [![GitHub Repository](https://img.shields.io/badge/Repo-GitHub-blue)](https://github.com/your-username/your-repository)
+[![GitHub Pages](https://img.shields.io/badge/Live-GitHub_Pages-blue)](https://j-sanchez.github.io/ePortfolio-/index.html) [![GitHub Repository](https://github.com/J-sanchez)]
 
-## Professional Self-Assessment
+# Jonathan C. Sanchez - Professional ePortfolio
 
-*Welcome to my professional self-assessment, which serves as a holistic introduction to my journey throughout this course and project.*
+## Self-Assessment
 
-In this self-assessment, I will discuss the skills I have developed, the enhancements I have implemented to my original artifacts, and how my work aligns with the program outcomes for the Computer Science degree. This section demonstrates my ability to reflect on my progress and quantify my achievements based on the artifacts I have developed and enhanced during the course.
+Reflecting on my journey through the Computer Science program at Southern New Hampshire University (SNHU), I can confidently say it has been a transformative and challenging experience. Throughout my studies, I've gained technical expertise and a deeper understanding of what it takes to succeed in the competitive field of computer science. Having transferred three times before, SNHU's program stands out for its comprehensive curriculum and real-world practical experiences. It has far surpassed the quality of education at my previous institutions.
 
-### Key Skills Demonstrated:
-- **Software Development**: Enhanced my skills in writing clean, efficient, and maintainable code.
-- **Problem Solving**: Applied algorithms and data structures to solve real-world problems.
-- **Database Management**: Improved my understanding of relational and non-relational databases through hands-on projects.
-- **Version Control**: Utilized Git for code versioning, collaboration, and project management.
-- **Documentation**: Documented my code and process effectively for both technical and non-technical audiences.
+### Strengths and Professional Goals
 
-### Alignments with Course Outcomes:
-- **Program Outcome 1: Problem Solving** – Demonstrated through the optimization of code and database queries.
-- **Program Outcome 2: Application of Software Engineering Principles** – Implemented through iterative development and testing of software artifacts.
-- **Program Outcome 3: Data Management and Analysis** – Showcased through database-related enhancements and data manipulation tasks.
-- **Program Outcome 4: Team Collaboration** – Displayed in my collaboration with peers on various projects, utilizing GitHub for version control.
-- **Program Outcome 5: Professionalism in Software Development** – Reflected in my consistent use of best practices for code quality, security, and documentation.
+The coursework in this program has been demanding, but it helped me develop crucial skills for my career. Late-night study sessions and weekend work taught me time management, discipline, and how to set priorities. Balancing school with a full-time job was difficult but pushed me to go beyond my limits, and I made significant sacrifices in my personal life to focus on my academic goals.
 
-## Artifacts
+These experiences have shaped my resilience and work ethic, while enhancing my communication skills and ability to work under pressure—critical abilities for my future roles in computer science.
 
-### Original Artifacts
+### Skills Developed and Professional Competence
 
-The following section presents my original artifacts created at the beginning of the term, showcasing the foundational work that laid the groundwork for my improvements.
+- **Technical Writing and Code Documentation**: I've honed my ability to write clear, detailed documentation, making code easier to understand and maintain. This skill became crucial during coursework, where thorough documentation was necessary for future developers and testers to work with the code effectively.
 
-#### Artifact 1: [LANL Portfolio]
-- **Description**:  
-  The LANL Portfolio is a personal portfolio project built to showcase my skills, projects, and experience as a developer. This portfolio serves as both a professional showcase and a tool for potential employers or collaborators to learn more about my work and background. The original version was created with Node.js for the backend and Tailwind CSS for responsive, utility-first front-end design. The portfolio includes sections such as "About Me," "Skills," "Projects," and "Contact," which together provide a comprehensive view of my capabilities.
+- **Perseverance and Problem-Solving**: Despite facing overwhelming challenges, I learned how to break complex problems into manageable parts and approach tasks with determination. This mindset has prepared me to tackle difficult problems with confidence.
 
-- **Technologies Used**:
-  - **Backend**: Node.js (for server-side functionality and API routes)
-  - **Frontend**: Tailwind CSS (for flexible and responsive design)
-  - **Additional Tools**: Express.js (for setting up the Node.js server), EJS (for templating)
-  - **Version Control**: Git/GitHub
-  - **Hosting**: GitHub Pages (for front-end hosting), Heroku (for full-stack hosting)
+- **Algorithm Optimization and Data Structures**: Through courses like Data Structures and Algorithms, I learned key concepts such as sorting algorithms and hash tables, and how to optimize them for better performance and efficiency.
 
-- **Key Features**:
-  - **Responsive Design**: Utilized Tailwind CSS to ensure the portfolio is fully responsive across devices (desktop, tablet, mobile).
-  - **Interactive Project Gallery**: Showcased personal projects with descriptions, technologies used, and links to GitHub repositories.
-  - **Contact Form**: Integrated a contact form where visitors can send messages directly to my email address. This functionality is handled through the Node.js backend using the Nodemailer package.
-  - **Custom Animations**: Added subtle animations to the UI elements using Tailwind's utility classes, enhancing the visual experience.
-  - **GitHub Pages & Heroku Deployment**: Hosted the front-end on GitHub Pages, with the backend deployed on Heroku for full-stack functionality.
+- **Software Development and Database Management**: I gained expertise in software engineering and database management, which allowed me to build efficient software, perform testing, and design scalable databases.
 
-  
-[View the Original Artifact on GitHub](https://github.com/J-sanchez/LANL_Portfolio)
+- **Security**: I've developed an understanding of security best practices, including encryption and identifying vulnerabilities. This knowledge is crucial for building secure systems from the ground up.
 
-#### Artifact 2: [Project Name or Topic]
-- **Description**: A brief description of this artifact.
-- **Technologies Used**: [List of tools]
-- **Key Features**:
-  - Bullet points summarizing features.
+### Artifacts and Portfolio Overview
 
-[View the Original Artifact on GitHub](https://github.com/your-username/project-name)
+The artifacts in my portfolio demonstrate the skills I've acquired throughout my studies. Each artifact reflects my growth as a computer science major:
+
+#### Code Review:
+- [Code Review Video](./assets/CodeReview/codeReview.html)
+
+#### Software Design and Engineering:
+This artifact shows my ability to enhance software, refactor code, and implement new features.
+- [Artifact - SNHU CS 250: Niche Travel App](./assets/ArtifactOne/artifactOne.html)
+
+#### Algorithms and Data Structures:
+This artifact highlights my understanding of algorithms and my ability to turn academia into something fun.
+- [Artifact - SNHU CS 300: Binary Search Tree (BST) - Tree Traversal](./assets/ArtifactTwo/artifactTwo.html)
+
+#### Databases:
+This artifact demonstrates my skills in designing and implementing relational databases, with a focus on performance in a real-world application.
+- [Artifact - SNHU DAD 220: Inventory Tracking App](./assets/ArtifactThree/artifactThree.html)
+
+These artifacts showcase the technical skills I've developed and my progress throughout the program.
+
+### Conclusion
+
+Completing the Computer Science program at SNHU has been a journey of growth and perseverance. Through challenges, I've developed critical skills such as technical writing, code documentation, and problem-solving. My portfolio represents the culmination of my efforts, demonstrating the range of skills I've gained throughout the program.
+
+The dedication required to complete the program, combined with the skills I've developed, has prepared me for the next step in my career. I look forward to applying these skills professionally and continuing to grow as a computer scientist.
 
 ---
 
-### Enhanced Artifacts
+## Contact Information
 
-In this section, I will highlight the enhancements I made to my original artifacts, showcasing my growth and how I incorporated feedback and new knowledge throughout the term.
-
-#### Enhanced Artifact 1: [Professional Portfolio]
-- **Enhancements Made**:
-  - Descriptions of changes made to improve functionality, user interface, performance, etc.
-  - Focus on improvements made after feedback or new learning, such as optimizing algorithms, improving user experience, or integrating additional features.
-- **Technologies Used**: [Technologies after enhancement, if any changes]
-- **New Features Added**:
-  - Bullet points describing the new or improved features.
-  
-[View the Enhanced Artifact on GitHub](https://github.com/your-username/project-name](https://github.com/J-sanchez/Portfolio )
-
-#### Enhanced Artifact 2: [Project Name or Topic]
-- **Enhancements Made**:
-  - Descriptions of improvements or new features that were added.
-  - Emphasis on complex database queries, improved security practices, etc.
-- **Technologies Used**: [List of updated tools]
-- **New Features Added**:
-  - Bullet points describing the changes.
-
-[View the Enhanced Artifact on GitHub](https://github.com/your-username/project-name)
-
-## Course Outcomes and Enhancements
-
-Throughout this course, I have worked on several artifacts, each of which has contributed to my understanding and implementation of key course outcomes. The following is an outline of how my work aligns with these outcomes:
-
-- **Outcome 1: Problem Solving and Algorithm Design**  
-  *In my projects, I have solved complex problems by designing algorithms that are both efficient and easy to understand, with a focus on optimizing performance in real-world applications.*
-
-- **Outcome 2: Software Development Practices**  
-  *My development process has followed industry-standard practices for coding, including version control with Git and Agile development methodologies. I have also incorporated best practices in code documentation.*
-
-- **Outcome 3: Data Management and Databases**  
-  *I have designed and implemented databases, demonstrating proficiency in SQL and NoSQL systems. Enhancements to my database systems were critical for scaling my projects and ensuring efficient data retrieval.*
-
-- **Outcome 4: Collaboration and Communication**  
-  *Collaborating with peers on various projects has refined my communication skills, particularly in explaining technical concepts to both technical and non-technical audiences.*
-
-- **Outcome 5: Professionalism and Ethics**  
-  *Throughout the course, I have maintained high standards of professionalism, including adhering to ethical guidelines for data privacy and security in my projects.*
-
-## Final Project Guidelines and Rubric
-
-As I near the completion of this project, I reviewed the [Final Project Guidelines and Rubric PDF](https://link-to-guidelines.com) to ensure all critical elements and requirements are addressed. I have made sure to:
-
-- Follow the specified formatting and content guidelines.
-- Ensure all required artifacts, code reviews, narratives, and assessments are included.
-- Align my work with the five program outcomes.
-
-## GitHub Pages and External Links
-
-While my ePortfolio is hosted on GitHub Pages, some of my work is hosted externally:
-
-- **Code Review**: The code review is hosted on [YouTube](https://www.youtube.com/watch?v=example).
-- **Bitbucket Repository**: Some of my private repositories, including experimental projects, are hosted on [Bitbucket](https://bitbucket.org/your-username).
-
-For further guidance, please refer to the [GitHub Pages Formatting PDF](https://link-to-formatting-guide.com).
-
----
-
-*Note: Be sure to review the rubric and final project guidelines as you finalize your submission. The final polished version should highlight your achievements and reflect your growth throughout the term.*
-
+- Email: jonathan.sanchez@windstream.net
