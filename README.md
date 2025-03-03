@@ -1,6 +1,6 @@
 # Jonathan C. Sanchez 
 
-[![GitHub Pages](https://img.shields.io/badge/Live-GitHub_Pages-blue)](https://j-sanchez.github.io/ePortfolio-/index.html) [![GitHub Repository](https://github.com/J-sanchez)]
+[![GitHub Pages](https://img.shields.io/badge/Live-GitHub_Pages-blue)](https://j-sanchez.github.io/ePortfolio-/index.html) [![GitHub Repository](https://img.shields.io/badge/Repo-GitHub-blue)](https://j-sanchez.github.)
 
 # Jonathan C. Sanchez - Professional ePortfolio
 
